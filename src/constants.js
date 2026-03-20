@@ -260,7 +260,7 @@ export const certifications = [
     },
     {
       id: 3,
-      title: "Email Validator NPM Package",
+      title: "ART FACTORY",
       description:
         "Art Factory is a modern and visually appealing website template designed for creative and business purposes. It offers a clean layout with sections like Home, About, Services, FAQs, and Contact for easy navigation. The template is fully responsive and customizable, making it suitable for various types of websites. It is free to use and ideal for building professional-looking web projects quickly.",
       image: npmLogo,
