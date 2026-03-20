@@ -210,11 +210,11 @@ export const certifications = [
     {
       id: 2,
       img: vpsLogo,
-      school: "Vagdevi junior college, Mahabubnagar",
+      school:"Vagdevi junior college, Mahabubnagar",
       date: "jun 2016 - March 2018",
       grade: "68%",
       desc: "I completed my class 12 education from Vagdevi junior college,Mahabubnagar, under the Telanagana board, where I studied  Mathematics, Physics and Chemistry (MPC).",
-      degree: "Vagdevi junior college-MPC (Mathematics,Physics,Chemistry)",
+      degree: "Vagdevi junior college (MPC)",
     },
     {
       id: 3,
