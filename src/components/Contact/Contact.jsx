@@ -85,7 +85,7 @@ const Contact = () => {
 
           <div className="flex justify-between">
             <span className="text-white">📍 Location</span>
-            <span className="text-gray-400">Andhra Pradesh, India</span>
+            <span className="text-gray-400">Telangana, Hyderabad, India</span>
           </div>
 
           {isSent && (
