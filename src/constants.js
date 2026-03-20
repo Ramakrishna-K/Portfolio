@@ -214,7 +214,7 @@ export const certifications = [
       date: "jun 2016 - March 2018",
       grade: "68%",
       desc: "I completed my class 12 education from Vagdevi junior college,Mahabubnagar, under the Telanagana board, where I studied  Mathematics, Physics and Chemistry (MPC).",
-      degree:"Vagdevi junior college(MPC)",
+      degree:"(MPC) Mathematics, Physics and Chemistry",
     },
     {
       id: 3,
