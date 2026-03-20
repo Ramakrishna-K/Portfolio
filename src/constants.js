@@ -201,7 +201,7 @@ export const certifications = [
     {
       id: 1,
       img: bsaLogo,
-      school: "SVDC College, Mahabubnagar",
+      school: "SVD College, Mahabubnagar",
       date: "Sept 2018 - Dec 2021",
       grade: "75.2%",
       desc: "I completed my Bachelor's degree in Computer Science (B.Sc.) from SVDC College, Mahabubnagar. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
@@ -214,7 +214,7 @@ export const certifications = [
       date: "jun 2016 - March 2018",
       grade: "68%",
       desc: "I completed my class 12 education from Vagdevi junior college,Mahabubnagar, under the Telanagana board, where I studied  Mathematics, Physics and Chemistry (MPC).",
-      degree: "Vagdevi junior college (MPC)",
+      degree:"Vagdevi junior college(MPC)",
     },
     {
       id: 3,
