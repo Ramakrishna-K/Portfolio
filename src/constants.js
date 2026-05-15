@@ -179,13 +179,23 @@ export const certifications = [
   },
   {
   id: 2,
-  title: "Full Stack Food Delivery Project",
-  issuer: "GreatStack",
-  date: "Feb 2026",
-  img: fullstackCerts,
-  desc: "Built a complete full-stack food delivery application using the MERN stack, implementing authentication, cart management, and order processing.",
-  link: "https://drive.google.com/file/d/1GLv-AMZviHycGzOJFBQsXx1Bqeyp-po2/view"
+  title: "Full Stack Generative and Agentic AI with Python",
+  issuer: "Udemy",
+  date: "Apr 2026",
+  img: agenticAiCert,
+  desc: "Completed an intensive certification focused on Generative AI, Agentic AI systems, Python, LangChain, AI workflows, and full-stack AI application development.",
+  link: "https://drive.google.com/file/d/1V-xyJEOFAKb8rmXygv07KM-J4Im4xWrf/view?usp=drive_link"
+  
 }
+  // {
+//   id: 2,
+//   title: "Full Stack Food Delivery Project",
+//   issuer: "GreatStack",
+//   date: "Feb 2026",
+//   img: fullstackCerts,
+//   desc: "Built a complete full-stack food delivery application using the MERN stack, implementing authentication, cart management, and order processing.",
+//   link: "https://drive.google.com/file/d/1GLv-AMZviHycGzOJFBQsXx1Bqeyp-po2/view"
+// }
 ]
   
   export const education = [
