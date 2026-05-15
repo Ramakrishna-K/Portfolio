@@ -57,8 +57,8 @@ import npmLogo from './assets/work_logo/npm.png';
 // import imagesearchLogo from './assets/work_logo/image_search.png';
 // import removebgLogo from './assets/work_logo/remove_bg.png';
 
-import fullstackCert from "./assets/certificates/certificate.jpg";
-import fullstackCerts from "./assets/certificates/certificate1.png"
+import fullstackCert from "./assets/certificates/certificates.jpg";
+import fullstackCerts from "./assets/certificates/certificates1.jpg"
 
 export const SkillsInfo = [
   {
