@@ -45,10 +45,11 @@ const About = () => {
             Skilled in both front-end and back-end development,
             I work with modern technologies like the MERN stack to create responsive and scalable applications.
             I enjoy solving real-world problems through clean, efficient code and continuously improve my skills by learning new technologies. */}
-            I'm a Full-Stack Developer and AI Engineer passionate about building modern web applications and intelligent AI solutions. 
-            I specialize in React.js, Next.js, Node.js, Express.js, FastAPI, MongoDB, MySQL, JavaScript, TypeScript, and Python, while leveraging LLMs, RAG, Prompt Engineering, Agentic AI, and MCP to create smart, real-world applications.
-            I work with technologies such as LangChain, LangGraph, LlamaIndex, CrewAI, Hugging Face, Ollama, OpenAI, Gemini, Redis, Apache Kafka, Docker, and Nginx to develop scalable, secure, and production-ready systems. 
-            I enjoy transforming complex ideas into efficient, user-friendly solutions and continuously exploring new technologies to build innovative software that makes a meaningful impact.
+
+            I'm a Full-Stack Developer and AI Engineer passionate about building scalable web applications and intelligent AI solutions.
+            I specialize in React.js, Next.js, Node.js, FastAPI, JavaScript, TypeScript, Python, MongoDB, and MySQL, while leveraging LLMs, RAG, Prompt Engineering, and Agentic AI to create innovative, real-world applications. 
+            I enjoy solving complex problems, writing clean code, and continuously learning new technologies to build high-quality software.
+
           </p>
           {/* Resume Button */}
           <a
