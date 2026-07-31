@@ -292,16 +292,25 @@ export const certifications = [
      github: "https://github.com/Ramakrishna-K/CRM_project_f",
      webapp: "https://crm-project-f.vercel.app/",
      },
-    {
-      id: 5,
-      title: "Task Reminder Chrome Extension Tool",
-      description:
-        "A productivity-boosting Chrome extension designed to help users manage and remember their daily tasks. Built using JavaScript, it offers a simple interface with reminders and task notifications to keep users on track.",
-      image: taskremLogo,
-      tags: ["JavaScript", "Chrome Extension", "HTML", "CSS"],
-      github: "https://github.com/codingmastr/Task-Reminder-Tool",
-      webapp: "chrome://extensions/?id=kngheeibjnnidhfoomkpnbeghackheci",
-    },
+  {
+  id: 5,
+  title: "Autonomous AI Document Generation Agent ",
+    image:taskremLogo,
+  description:
+    "The Autonomous AI Document Generation Agent is a Python-based REST API built with FastAPI that leverages Large Language Models (Groq or Gemini) to understand natural language requests, autonomously generate execution plans, perform multi-step task execution, validate outputs, and create professional Microsoft Word (.docx) documents. Designed with a modular architecture, the application separates planning, LLM integration, task execution, validation, and document generation into independent components, showcasing autonomous AI workflows, clean software engineering practices, and scalable REST API development.",
+  tags: [
+    "Python",
+    "FastAPI",
+    "LLM",
+    "Groq",
+    "Gemini",
+    "REST API",
+    "python-docx",
+    "AI Agent"
+  ],
+  github: "https://github.com/Ramakrishna-K/ai_agents18",
+  webapp: "https://ai-agents18-4.onrender.com/docs",
+},
     // {
     //   id: 5,
     //   title: "Webverse Digital",
