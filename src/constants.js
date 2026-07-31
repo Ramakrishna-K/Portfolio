@@ -248,16 +248,35 @@ export const certifications = [
       github: "https://github.com/Ramakrishna-K/gorbanjaracommunity1",
       webapp: "https://gorbanjaracommunity1.vercel.app/",
     },
+    // {
+    //   id: 1,
+    //   title: "FreshMart ",
+    //   description:
+    //     "FreshMart is a full-stack grocery shopping project developed to provide users with a seamless online shopping experience for daily essentials. It allows customers to browse products, add items to the cart, and place orders easily through an intuitive interface. The project also includes an admin panel to manage products, categories, and orders efficiently. Built using modern technologies, FreshMart ensures secure transactions, responsive design, and smooth performance.",
+    //   image: csprepLogo,
+    //   tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
+    //   // github: "https://github.com/codingmastr/CSPrep",
+    //   // webapp: "https://csprep.netlify.app/",
+    // },
     {
-      id: 1,
-      title: "FreshMart ",
-      description:
-        "FreshMart is a full-stack grocery shopping project developed to provide users with a seamless online shopping experience for daily essentials. It allows customers to browse products, add items to the cart, and place orders easily through an intuitive interface. The project also includes an admin panel to manage products, categories, and orders efficiently. Built using modern technologies, FreshMart ensures secure transactions, responsive design, and smooth performance.",
-      image: csprepLogo,
-      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      // github: "https://github.com/codingmastr/CSPrep",
-      // webapp: "https://csprep.netlify.app/",
-    },
+  id: 1,
+  title: "AI-First HCP CRM",
+  description:
+    "AI-First HCP CRM is a full-stack healthcare customer relationship management application designed to streamline interactions between medical representatives and Healthcare Professionals (HCPs). The platform enables users to log meetings, record discussion topics, track shared materials and product samples, and manage HCP information efficiently. It also integrates an AI Assistant powered by LangGraph to generate intelligent interaction summaries and assist with CRM workflows. Built with modern technologies, the application provides a responsive user interface, secure backend APIs, real-time data management, and an intuitive dashboard for healthcare engagement.",
+  image: hcpCrmLogo,
+  tags: [
+    "React JS",
+    "Redux",
+    "FastAPI",
+    "Python",
+    "LangGraph",
+    "MongoDB",
+    "Tailwind CSS",
+    "JavaScript"
+  ],
+  // github: "https://github.com/yourusername/ai-hcp-crm",
+  // webapp: "https://your-demo-link.com",
+},
     {
       id: 2,
       title: "Movie Recommendation App",
