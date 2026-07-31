@@ -50,7 +50,7 @@ import githubdetLogo from './assets/work_logo/github_det.png';
 import csprepLogo from './assets/work_logo/cs_prep12.png';
 import movierecLogo from './assets/work_logo/movie_rec.png';
 import npmLogo from './assets/work_logo/npm.png';
-import  hcp_crm from"./assets/work_logo/hcp_crm.png";
+import  hcpCrmLogo from"./assets/work_logo/hcp_crm.png";
 
 // import taskremLogo from './assets/work_logo/task_rem.png';
 // import webverLogo from './assets/work_logo/web_dig.png';
@@ -285,7 +285,7 @@ export const certifications = [
   title: "AI-First HCP CRM",
   description:
     "AI-First HCP CRM is a full-stack healthcare customer relationship management application designed to streamline interactions between medical representatives and Healthcare Professionals (HCPs). The platform enables users to log meetings, record discussion topics, track shared materials and product samples, and manage HCP information efficiently. It also integrates an AI Assistant powered by LangGraph to generate intelligent interaction summaries and assist with CRM workflows. Built with modern technologies, the application provides a responsive user interface, secure backend APIs, real-time data management, and an intuitive dashboard for healthcare engagement.",
-  image: hcp_crm,
+  image:hcpCrmLogo,
   tags: [
     "React JS",
     "Redux",
