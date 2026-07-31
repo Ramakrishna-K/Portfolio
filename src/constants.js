@@ -11,12 +11,15 @@ import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
 // import gsapLogo from './assets/tech_logo/gsap.png';
 // import materialuiLogo from './assets/tech_logo/materialui.png';
 import bootstrapLogo from './assets/tech_logo/bootstrap.png';
-import springbootLogo from './assets/tech_logo/springboot.png';
+
+// baclend frame works
+// import springbootLogo from './assets/tech_logo/springboot.png';
 import nodejsLogo from './assets/tech_logo/nodejs.png';
 import expressjsLogo from './assets/tech_logo/express.png';
 import mysqlLogo from './assets/tech_logo/mysql.png';
 import mongodbLogo from './assets/tech_logo/mongodb.png';
 import firebaseLogo from './assets/tech_logo/firebase.png';
+import fastapiLogo from './assets/tech_logo/fastapi.png';
 // import cLogo from './assets/tech_logo/c.png';
 // import cppLogo from './assets/tech_logo/cpp.png';
 import javaLogo from './assets/tech_logo/java.png';
@@ -92,6 +95,7 @@ export const SkillsInfo = [
       { name: 'Node JS', logo: nodejsLogo },
       { name: 'Express JS', logo: expressjsLogo },
       { name: 'Django', logo: djangoLogo },
+      { name: 'FastAPI', logo: fastapiLogo },
       { name: 'MySQL', logo: mysqlLogo },
       { name: 'MongoDB', logo: mongodbLogo },
       // { name: 'Firebase', logo: firebaseLogo },
