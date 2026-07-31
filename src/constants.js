@@ -22,6 +22,8 @@ import firebaseLogo from './assets/tech_logo/firebase.png';
 import javaLogo from './assets/tech_logo/java.png';
 import pythonLogo from './assets/tech_logo/python.png';
 import typescriptLogo from './assets/tech_logo/typescript.png';
+//  tools
+import dockerLogo from './assets/tech_logo/docker.png'
 import gitLogo from './assets/tech_logo/git.png';
 import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
@@ -108,6 +110,7 @@ export const SkillsInfo = [
   {
     title: 'Tools',
     skills: [
+      { name: 'Docker', logo: dockerLogo },
       { name: 'Git', logo: gitLogo },
       { name: 'GitHub', logo: githubLogo },
       { name: 'VS Code', logo: vscodeLogo },
