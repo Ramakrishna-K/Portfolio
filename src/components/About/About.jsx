@@ -25,11 +25,12 @@ const About = () => {
             <span className="text-white">I am a </span>
             <ReactTypingEffect
               text={[
-                'Fullstack Developer',
-                'App Developer',
-                'UI/UX Designer',
-                'Coder',
-              ]}
+                    'MERN Stack Developer',
+                    'Full-Stack AI Developer',
+                    'Agentic AI Developer',
+                    'AI Engineer',
+                    
+                   ]}
               speed={100}
               eraseSpeed={50}
               typingDelay={500}
@@ -41,11 +42,6 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            {/* I am a passionate Full-Stack Developer with hands-on experience building web applications through academic and personal projects.
-            Skilled in both front-end and back-end development,
-            I work with modern technologies like the MERN stack to create responsive and scalable applications.
-            I enjoy solving real-world problems through clean, efficient code and continuously improve my skills by learning new technologies. */}
-
             I'm a Full-Stack Developer and AI Engineer passionate about building scalable web applications and intelligent AI solutions.
             I specialize in React.js, Next.js, Node.js, FastAPI, JavaScript, TypeScript, Python, MongoDB, and MySQL, while leveraging LLMs, RAG, Prompt Engineering, and Agentic AI to create innovative, real-world applications. 
             I enjoy solving complex problems, writing clean code, and continuously learning new technologies to build high-quality software.
