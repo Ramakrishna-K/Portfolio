@@ -53,7 +53,7 @@ import npmLogo from './assets/work_logo/npm.png';
 // import hcpCrmLogo from"./assets/work_logo/hcp_crm.png";
 import hcpCrmLogo from"./assets/work_logo/hcp_crm.png"
 
-// import taskremLogo from './assets/work_logo/task_rem.png';
+import taskremLogo from './assets/work_logo/task_rem.png';
 // import webverLogo from './assets/work_logo/web_dig.png';
 // import cmLogo from './assets/work_logo/cm.png';
 // import imagesearchLogo from './assets/work_logo/image_search.png';
@@ -297,7 +297,7 @@ export const certifications = [
       title: "Task Reminder Chrome Extension Tool",
       description:
         "A productivity-boosting Chrome extension designed to help users manage and remember their daily tasks. Built using JavaScript, it offers a simple interface with reminders and task notifications to keep users on track.",
-      // image: taskremLogo,
+      image: taskremLogo,
       tags: ["JavaScript", "Chrome Extension", "HTML", "CSS"],
       github: "https://github.com/codingmastr/Task-Reminder-Tool",
       webapp: "chrome://extensions/?id=kngheeibjnnidhfoomkpnbeghackheci",
