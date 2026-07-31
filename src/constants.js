@@ -41,6 +41,27 @@ import vercelLogo from './assets/tech_logo/vercel.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
 import djangoLogo from "./assets/tech_logo/django.png"; 
 
+// Generative AI
+import openaiLogo from "./assets/tech_logo/openai.png";
+import geminiLogo from "./assets/tech_logo/gemini.png";
+import promptLogo from "./assets/tech_logo/prompt.png";
+import ragLogo from "./assets/tech_logo/rag.png";
+import huggingfaceLogo from "./assets/tech_logo/huggingface.png";
+import ollamaLogo from "./assets/tech_logo/ollama.png";
+import chromadbLogo from "./assets/tech_logo/chromadb.png";
+import faissLogo from "./assets/tech_logo/faiss.png";
+
+// Agentic AI
+import langchainLogo from "./assets/tech_logo/langchain.png";
+import langgraphLogo from "./assets/tech_logo/langgraph.png";
+import llamaindexLogo from "./assets/tech_logo/llamaindex.png";
+import crewaiLogo from "./assets/tech_logo/crewai.png";
+import pydanticLogo from "./assets/tech_logo/pydantic.png";
+import mcpLogo from "./assets/tech_logo/mcp.png";
+import functionLogo from "./assets/tech_logo/function-calling.png";
+import toolLogo from "./assets/tech_logo/tool-calling.png";
+import multiagentLogo from "./assets/tech_logo/multi-agent.png";
+
 // import csharpLogo from './assets/tech_logo/csharp.png';
 
 // Experience Section Logo's
@@ -131,6 +152,35 @@ export const SkillsInfo = [
        { name: 'Render', logo: renderLogo },
     ],
   },
+  {
+  title: "Generative AI",
+  skills: [
+    { name: "GPT-4", logo: openaiLogo },
+    { name: "Gemini", logo: geminiLogo },
+    { name: "Prompt Engineering", logo: promptLogo },
+    { name: "RAG", logo: ragLogo },
+    { name: "OpenAI API", logo: openaiLogo },
+    { name: "Gemini API", logo: geminiLogo },
+    { name: "Hugging Face", logo: huggingfaceLogo },
+    { name: "Ollama", logo: ollamaLogo },
+    { name: "ChromaDB", logo: chromadbLogo },
+    { name: "FAISS", logo: faissLogo },
+  ],
+},
+{
+  title: "Agentic AI",
+  skills: [
+    { name: "LangChain", logo: langchainLogo },
+    { name: "LangGraph", logo: langgraphLogo },
+    { name: "LlamaIndex", logo: llamaindexLogo },
+    { name: "CrewAI", logo: crewaiLogo },
+    { name: "Pydantic", logo: pydanticLogo },
+    { name: "MCP", logo: mcpLogo },
+    { name: "Function Calling", logo: functionLogo },
+    { name: "Tool Calling", logo: toolLogo },
+    { name: "Multi-Agent Workflows", logo: multiagentLogo },
+  ],
+},
 ];
 
 export const experiences = [
