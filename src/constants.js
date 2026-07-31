@@ -285,7 +285,7 @@ export const certifications = [
     id: 4,
     title: "AI-First HCP CRM",
      description:
-     "AI-First HCP CRM is a full-stack healthcare CRM application that helps medical representatives manage Healthcare Professional (HCP) interactions. It enables meeting logging, discussion tracking, material and sample management, and AI-powered interaction summaries using LangGraph. Built with React, FastAPI, and MongoDB, it offers a secure, responsive, and efficient platform for healthcare engagement.",
+     "AI-First HCP CRM is a full-stack healthcare CRM application that streamlines interactions between Medical Representatives (MRs) and Healthcare Professionals (HCPs). It allows users to manage HCP profiles, log meetings, record discussion topics, and track shared materials and product samples. The platform features an AI Assistant powered by LangGraph to generate intelligent interaction summaries and enhance CRM workflows. Built with React.js, Redux, Tailwind CSS, FastAPI, Python, MongoDB, and JavaScript, it provides a responsive UI, secure RESTful APIs, authentication, real-time data management, and an intuitive dashboard. The application showcases modern full-stack development, AI integration, scalable architecture, and efficient healthcare engagement.",
 
       image:hcpCrmLogo,
      tags: ["React JS","Redux","FastAPI","Python","LangGraph","MongoDB","Tailwind CSS","JavaScript" ],
