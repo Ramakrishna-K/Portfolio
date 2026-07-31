@@ -281,16 +281,16 @@ export const certifications = [
       webapp: "https://ramakrishna-k.github.io/ArtFactory1Pj/",
     },
       {
-  id: 4,
-  title: "AI-First HCP CRM",
-  description:
+    id: 4,
+    title: "AI-First HCP CRM",
+     description:
      "AI-First HCP CRM is a full-stack healthcare CRM application that helps medical representatives manage Healthcare Professional (HCP) interactions. It enables meeting logging, discussion tracking, material and sample management, and AI-powered interaction summaries using LangGraph. Built with React, FastAPI, and MongoDB, it offers a secure, responsive, and efficient platform for healthcare engagement.",
 
-  image:hcpCrmLogo,
-  tags: ["React JS","Redux","FastAPI","Python","LangGraph","MongoDB","Tailwind CSS","JavaScript" ],
-  github: "https://github.com/Ramakrishna-K/CRM_project_f","https://github.com/Ramakrishna-K/hcp_crm_project-b",
-  webapp: "https://crm-project-f.vercel.app/",
-},
+      image:hcpCrmLogo,
+     tags: ["React JS","Redux","FastAPI","Python","LangGraph","MongoDB","Tailwind CSS","JavaScript" ],
+     github: "https://github.com/Ramakrishna-K/CRM_project_f",
+     webapp: "https://crm-project-f.vercel.app/",
+     },
     // {
     //   id: 4,
     //   title: "Task Reminder Chrome Extension Tool",
