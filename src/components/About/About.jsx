@@ -42,9 +42,14 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I'm a Full-Stack Developer and AI Engineer passionate about building scalable web applications and intelligent AI solutions.
+            {/* I'm a Full-Stack Developer and AI Engineer passionate about building scalable web applications and intelligent AI solutions.
             I specialize in React.js, Next.js, Node.js, FastAPI, JavaScript, TypeScript, Python, MongoDB, and MySQL, while leveraging LLMs, RAG, Prompt Engineering, and Agentic AI to create innovative, real-world applications. 
-            I enjoy solving complex problems, writing clean code, and continuously learning new technologies to build high-quality software.
+            I enjoy solving complex problems, writing clean code, and continuously learning new technologies to build high-quality software. */}
+
+            I'm a Full-Stack Developer and AI Engineer passionate about building scalable web applications and intelligent AI solutions. 
+            I specialize in **Generative AI**, **Agentic AI**, and full-stack development, creating AI-powered applications that solve real-world problems. 
+            I enjoy designing clean, efficient, and user-centric software while continuously learning and exploring emerging technologies to build innovative and impactful solutions.
+
 
           </p>
           {/* Resume Button */}
