@@ -50,7 +50,7 @@ import githubdetLogo from './assets/work_logo/github_det.png';
 import csprepLogo from './assets/work_logo/cs_prep12.png';
 import movierecLogo from './assets/work_logo/movie_rec.png';
 import npmLogo from './assets/work_logo/npm.png';
-import  hcpCrmLogo from"./assets/work_logo/"
+import  hcpCrmLogo from"./assets/work_logo/hcp_crm.png";
 
 // import taskremLogo from './assets/work_logo/task_rem.png';
 // import webverLogo from './assets/work_logo/web_dig.png';
