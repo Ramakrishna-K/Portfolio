@@ -152,10 +152,10 @@ export const SkillsInfo = [
        { name: 'Render', logo: renderLogo },
     ],
   },
-  {
-  title: "Generative AI",
-  skills: [
-    { name: "GPT-4", logo: openaiLogo },
+  // {
+  // title: "Generative AI",
+  // skills: [
+  //   { name: "GPT-4", logo: openaiLogo },
     // { name: "Gemini", logo: geminiLogo },
     // { name: "Prompt Engineering", logo: promptLogo },
     // { name: "RAG", logo: ragLogo },
@@ -165,12 +165,12 @@ export const SkillsInfo = [
     // { name: "Ollama", logo: ollamaLogo },
     // { name: "ChromaDB", logo: chromadbLogo },
     // { name: "FAISS", logo: faissLogo },
-  ],
-},
-{
-  title: "Agentic AI",
-  skills: [
-    { name: "LangChain", logo: langchainLogo },
+//   ],
+// },
+// {
+//   title: "Agentic AI",
+//   skills: [
+//     { name: "LangChain", logo: langchainLogo },
     // { name: "LangGraph", logo: langgraphLogo },
     // { name: "LlamaIndex", logo: llamaindexLogo },
     // { name: "CrewAI", logo: crewaiLogo },
@@ -179,8 +179,12 @@ export const SkillsInfo = [
     // { name: "Function Calling", logo: functionLogo },
     // { name: "Tool Calling", logo: toolLogo },
     // { name: "Multi-Agent Workflows", logo: multiagentLogo },
-  ],
-},
+//   ],
+// },
+  {
+    title: "ai",
+      
+  },
 ];
 
 export const experiences = [
