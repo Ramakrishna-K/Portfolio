@@ -24,6 +24,7 @@ import pythonLogo from './assets/tech_logo/python.png';
 import typescriptLogo from './assets/tech_logo/typescript.png';
 //  tools
 import dockerLogo from './assets/tech_logo/docker1.png';
+import renderLogo from './assets/tech_logo/render.png'
 import kafkaLogo from './assets/tech_logo/kafka.png';
 import redisLogo from './assets/tech_logo/redis.png';
 import gitLogo from './assets/tech_logo/git.png';
@@ -123,6 +124,7 @@ export const SkillsInfo = [
       { name: 'Figma', logo: figmaLogo },
       { name: 'Redis', logo: redisLogo },
       { name: 'Apache Kafka', logo: kafkaLogo },
+       { name: 'Render', logo: renderLogo },
     ],
   },
 ];
