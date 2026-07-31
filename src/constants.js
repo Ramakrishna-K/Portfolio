@@ -42,7 +42,7 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 import djangoLogo from "./assets/tech_logo/django.png"; 
 
 // Generative AI
-import openaiLogo from "./assets/tech_logo/gpt.jpg";
+// import openaiLogo from "./assets/tech_logo/gpt.jpg";
 // import geminiLogo from "./assets/tech_logo/gemini.png";
 // import promptLogo from "./assets/tech_logo/prompt.png";
 // import ragLogo from "./assets/tech_logo/rag.png";
@@ -52,7 +52,7 @@ import openaiLogo from "./assets/tech_logo/gpt.jpg";
 // import faissLogo from "./assets/tech_logo/faiss.png";
 
 // Agentic AI
-import langchainLogo from "./assets/tech_logo/langchain.png";
+// import langchainLogo from "./assets/tech_logo/langchain.png";
 // import langgraphLogo from "./assets/tech_logo/langgraph.png";
 // import llamaindexLogo from "./assets/tech_logo/llamaindex.png";
 // import crewaiLogo from "./assets/tech_logo/crewai.png";
