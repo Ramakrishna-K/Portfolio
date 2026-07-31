@@ -181,9 +181,22 @@ export const SkillsInfo = [
     // { name: "Multi-Agent Workflows", logo: multiagentLogo },
 //   ],
 // },
-  {
-    title: "ai",
-      
+ {
+    title: 'Tools',
+    skills: [
+      { name: 'Docker', logo: dockerLogo },
+      { name: 'Git', logo: gitLogo },
+      { name: 'GitHub', logo: githubLogo },
+      { name: 'VS Code', logo: vscodeLogo },
+      { name: 'Postman', logo: postmanLogo },
+      { name: 'Compass', logo: mcLogo },
+      { name: 'Vercel', logo: vercelLogo },
+      { name: 'Netlify', logo: netlifyLogo },
+      // { name: 'Figma', logo: figmaLogo },
+      { name: 'Redis', logo: redisLogo },
+      { name: 'Apache Kafka', logo: kafkaLogo },
+       { name: 'Render', logo: renderLogo },
+    ],
   },
 ];
 
