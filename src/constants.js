@@ -23,7 +23,9 @@ import javaLogo from './assets/tech_logo/java.png';
 import pythonLogo from './assets/tech_logo/python.png';
 import typescriptLogo from './assets/tech_logo/typescript.png';
 //  tools
-import dockerLogo from './assets/tech_logo/docker1.png'
+import dockerLogo from './assets/tech_logo/docker1.png';
+import kafkaLogo from './assets/tech_logo/kafka.png';
+import redisLogo from './assets/tech_logo/redis.png';
 import gitLogo from './assets/tech_logo/git.png';
 import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
@@ -119,6 +121,8 @@ export const SkillsInfo = [
       { name: 'Vercel', logo: vercelLogo },
       { name: 'Netlify', logo: netlifyLogo },
       { name: 'Figma', logo: figmaLogo },
+      { name: 'Redis', logo: redisLogo },
+      { name: 'Apache Kafka', logo: kafkaLogo },
     ],
   },
 ];
