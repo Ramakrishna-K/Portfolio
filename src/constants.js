@@ -288,8 +288,8 @@ export const certifications = [
 
   image:hcpCrmLogo,
   tags: ["React JS","Redux","FastAPI","Python","LangGraph","MongoDB","Tailwind CSS","JavaScript" ],
-  // github: "https://github.com/yourusername/ai-hcp-crm",
-  // webapp: "https://your-demo-link.com",
+  github: "https://github.com/Ramakrishna-K/CRM_project_f","https://github.com/Ramakrishna-K/hcp_crm_project-b",
+  webapp: "https://crm-project-f.vercel.app/",
 },
     // {
     //   id: 4,
