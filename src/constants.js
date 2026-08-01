@@ -52,7 +52,7 @@ import chromadbLogo from "./assets/tech_logo/chromadb.jpg";
 // import faissLogo from "./assets/tech_logo/faiss.png";
 
 // Agentic AI
-import langchainLogo from "./assets/tech_logo/langchain.png";
+import langchainLogo from "./assets/tech_logo/langchain1.png";
 import langgraphLogo from "./assets/tech_logo/langGraph.png";
 import llamaindexLogo from "./assets/tech_logo/llamaIndex.jpg";
 import crewaiLogo from "./assets/tech_logo/crewai.jpg";
