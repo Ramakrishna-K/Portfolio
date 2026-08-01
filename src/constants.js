@@ -42,13 +42,13 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 import djangoLogo from "./assets/tech_logo/django.png"; 
 
 // Generative AI
-// import openaiLogo from "./assets/tech_logo/gpt.jpg";
-// import geminiLogo from "./assets/tech_logo/gemini.png";
-// import promptLogo from "./assets/tech_logo/prompt.png";
-// import ragLogo from "./assets/tech_logo/rag.png";
+import openaiLogo from "./assets/tech_logo/gpt.jpg";
+import geminiLogo from "./assets/tech_logo/gemini.";
+import promptLogo from "./assets/tech_logo/prompt.webp";
+import ragLogo from "./assets/tech_logo/RAG.png";
 // import huggingfaceLogo from "./assets/tech_logo/huggingface.png";
-import ollamaLogo from "./assets/tech_logo/ollama.png";
-// import chromadbLogo from "./assets/tech_logo/chromadb.png";
+import ollamaLogo from "./assets/tech_logo/gemini.webp";
+import chromadbLogo from "./assets/tech_logo/chromadb.jpg";
 // import faissLogo from "./assets/tech_logo/faiss.png";
 
 // Agentic AI
@@ -185,7 +185,11 @@ export const SkillsInfo = [
     title: 'Generative AI',
     skills: [
       { name: 'Ollama', logo:  ollamaLogo },
-   
+      { name: "Gemini", logo: geminiLogo },
+      { name: "RAG", logo: ragLogo },
+      { name: "GPT-4", logo: openaiLogo },
+      { name: "Prompt Engineering", logo: promptLogo },
+      { name: "ChromaDB", logo: chromadbLogo },
     ],
   },
 ];
