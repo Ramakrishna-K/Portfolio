@@ -47,7 +47,7 @@ import djangoLogo from "./assets/tech_logo/django.png";
 // import promptLogo from "./assets/tech_logo/prompt.png";
 // import ragLogo from "./assets/tech_logo/rag.png";
 // import huggingfaceLogo from "./assets/tech_logo/huggingface.png";
-// import ollamaLogo from "./assets/tech_logo/ollama.png";
+import ollamaLogo from "./assets/tech_logo/ollama.png";
 // import chromadbLogo from "./assets/tech_logo/chromadb.png";
 // import faissLogo from "./assets/tech_logo/faiss.png";
 
@@ -184,18 +184,8 @@ export const SkillsInfo = [
  {
     title: 'Generative AI',
     skills: [
-      { name: 'Docker', logo: dockerLogo },
-      { name: 'Git', logo: gitLogo },
-      { name: 'GitHub', logo: githubLogo },
-      { name: 'VS Code', logo: vscodeLogo },
-      { name: 'Postman', logo: postmanLogo },
-      { name: 'Compass', logo: mcLogo },
-      { name: 'Vercel', logo: vercelLogo },
-      { name: 'Netlify', logo: netlifyLogo },
-      // { name: 'Figma', logo: figmaLogo },
-      { name: 'Redis', logo: redisLogo },
-      { name: 'Apache Kafka', logo: kafkaLogo },
-       { name: 'Render', logo: renderLogo },
+      { name: 'Ollama', logo:  ollamaLogo },
+   
     ],
   },
 ];
