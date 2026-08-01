@@ -316,50 +316,8 @@ export const certifications = [
       github: "https://github.com/Ramakrishna-K/gorbanjaracommunity1",
       webapp: "https://gorbanjaracommunity1.vercel.app/",
     },
-    {
-      id: 1,
-      title: "FreshMart ",
-      description:
-        "FreshMart is a full-stack grocery shopping project developed to provide users with a seamless online shopping experience for daily essentials. It allows customers to browse products, add items to the cart, and place orders easily through an intuitive interface. The project also includes an admin panel to manage products, categories, and orders efficiently. Built using modern technologies, FreshMart ensures secure transactions, responsive design, and smooth performance.",
-      image: csprepLogo,
-      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      // github: "https://github.com/codingmastr/CSPrep",
-      // webapp: "https://csprep.netlify.app/",
-    },
-  
-    {
-      id: 2,
-      title: "Movie Recommendation App",
-      description:
-        "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
-      image: movierecLogo,
-      tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/Ramakrishna-K/Movie",
-      webapp: "https://movie-murex-seven.vercel.app/",
-    },
-    {
-      id: 3,
-      title: "ART FACTORY",
-      description:
-        "Art Factory is a modern and visually appealing website template designed for creative and business purposes. It offers a clean layout with sections like Home, About, Services, FAQs, and Contact for easy navigation. The template is fully responsive and customizable, making it suitable for various types of websites. It is free to use and ideal for building professional-looking web projects quickly.",
-      image: npmLogo,
-      tags: ["HTML", "CSS"],
-      github: "https://github.com/Ramakrishna-K/ArtFactory1Pj",
-      webapp: "https://ramakrishna-k.github.io/ArtFactory1Pj/",
-    },
-      {
-    id: 4,
-    title: "AI-First HCP CRM",
-     description:
-     "AI-First HCP CRM is a full-stack healthcare CRM application that streamlines interactions between Medical Representatives (MRs) and Healthcare Professionals (HCPs). It allows users to manage HCP profiles, log meetings, record discussion topics, and track shared materials and product samples. The platform features an AI Assistant powered by LangGraph to generate intelligent interaction summaries and enhance CRM workflows. Built with React.js, Redux, Tailwind CSS, FastAPI, Python, MongoDB, and JavaScript, it provides a responsive UI, secure RESTful APIs, authentication, real-time data management, and an intuitive dashboard. The application showcases modern full-stack development, AI integration, scalable architecture, and efficient healthcare engagement.",
-
-      image:hcpCrmLogo,
-     tags: ["React JS","Redux","FastAPI","Python","LangGraph","MongoDB","Tailwind CSS","JavaScript" ],
-     github: "https://github.com/Ramakrishna-K/CRM_project_f",
-     webapp: "https://crm-project-f.vercel.app/",
-     },
-  {
-  id: 5,
+     {
+  id: 1,
   title: "Autonomous AI Document Generation Agent ",
     image:taskremLogo,
   description:
@@ -377,6 +335,51 @@ export const certifications = [
   github: "https://github.com/Ramakrishna-K/ai_agents18",
   webapp: "https://ai-agents18-4.onrender.com/docs",
 },
+     {
+    id: 2,
+    title: "AI-First HCP CRM",
+     description:
+     "AI-First HCP CRM is a full-stack healthcare CRM application that streamlines interactions between Medical Representatives (MRs) and Healthcare Professionals (HCPs). It allows users to manage HCP profiles, log meetings, record discussion topics, and track shared materials and product samples. The platform features an AI Assistant powered by LangGraph to generate intelligent interaction summaries and enhance CRM workflows. Built with React.js, Redux, Tailwind CSS, FastAPI, Python, MongoDB, and JavaScript, it provides a responsive UI, secure RESTful APIs, authentication, real-time data management, and an intuitive dashboard. The application showcases modern full-stack development, AI integration, scalable architecture, and efficient healthcare engagement.",
+
+      image:hcpCrmLogo,
+     tags: ["React JS","Redux","FastAPI","Python","LangGraph","MongoDB","Tailwind CSS","JavaScript" ],
+     github: "https://github.com/Ramakrishna-K/CRM_project_f",
+     webapp: "https://crm-project-f.vercel.app/",
+     },
+  
+  
+    {
+      id: 3,
+      title: "Movie Recommendation App",
+      description:
+        "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
+      image: movierecLogo,
+      tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
+      github: "https://github.com/Ramakrishna-K/Movie",
+      webapp: "https://movie-murex-seven.vercel.app/",
+    },
+    {
+      id: 4,
+      title: "ART FACTORY",
+      description:
+        "Art Factory is a modern and visually appealing website template designed for creative and business purposes. It offers a clean layout with sections like Home, About, Services, FAQs, and Contact for easy navigation. The template is fully responsive and customizable, making it suitable for various types of websites. It is free to use and ideal for building professional-looking web projects quickly.",
+      image: npmLogo,
+      tags: ["HTML", "CSS"],
+      github: "https://github.com/Ramakrishna-K/ArtFactory1Pj",
+      webapp: "https://ramakrishna-k.github.io/ArtFactory1Pj/",
+    },
+      {
+      id: 5,
+      title: "FreshMart ",
+      description:
+        "FreshMart is a full-stack grocery shopping project developed to provide users with a seamless online shopping experience for daily essentials. It allows customers to browse products, add items to the cart, and place orders easily through an intuitive interface. The project also includes an admin panel to manage products, categories, and orders efficiently. Built using modern technologies, FreshMart ensures secure transactions, responsive design, and smooth performance.",
+      image: csprepLogo,
+      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
+      // github: "https://github.com/codingmastr/CSPrep",
+      // webapp: "https://csprep.netlify.app/",
+    },
+     
+ 
     // {
     //   id: 5,
     //   title: "Webverse Digital",
