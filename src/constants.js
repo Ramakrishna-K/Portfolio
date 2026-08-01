@@ -153,20 +153,6 @@ export const SkillsInfo = [
     ],
   },
  
-// {
-//   title: "Agentic AI",
-//   skills: [
-//     { name: "LangChain", logo: langchainLogo },
-    // { name: "LangGraph", logo: langgraphLogo },
-    // { name: "LlamaIndex", logo: llamaindexLogo },
-    // { name: "CrewAI", logo: crewaiLogo },
-    // { name: "Pydantic", logo: pydanticLogo },
-    // { name: "MCP", logo: mcpLogo },
-    // { name: "Function Calling", logo: functionLogo },
-    // { name: "Tool Calling", logo: toolLogo },
-    // { name: "Multi-Agent Workflows", logo: multiagentLogo },
-//   ],
-// },
  {
     title: 'Generative AI & AI Tools',
     skills: [
@@ -183,7 +169,7 @@ export const SkillsInfo = [
     ],
   },
    {
-    title: 'Agentic AI',
+    title: 'Agentic AI Frameworks',
     skills: [
      { name: "LangChain", logo: langchainLogo },
     { name: "LangGraph", logo: langgraphLogo },
@@ -193,7 +179,7 @@ export const SkillsInfo = [
     { name: "MCP", logo: mcpLogo },
     // { name: "Function Calling", logo: functionLogo },
     // { name: "Tool Calling", logo: toolLogo },
-    { name: "Multi-Agent Workflows", logo: multiagentLogo },
+    { name: "Multi-Agent", logo: multiagentLogo },
 
     ],
   },
