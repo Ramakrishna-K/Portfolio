@@ -46,7 +46,7 @@ import openaiLogo from "./assets/tech_logo/gpt.jpg";
 import geminiLogo from "./assets/tech_logo/gemini.webp";
 import promptLogo from "./assets/tech_logo/prompt.webp";
 import ragLogo from "./assets/tech_logo/RAG.png";
-// import huggingfaceLogo from "./assets/tech_logo/huggingface.png";
+import huggingfaceLogo from "./assets/tech_logo/hugging_face.png";
 import ollamaLogo from "./assets/tech_logo/ollama.png";
 import chromadbLogo from "./assets/tech_logo/chromadb.jpg";
 // import faissLogo from "./assets/tech_logo/faiss.png";
@@ -188,8 +188,10 @@ export const SkillsInfo = [
       { name: "Gemini", logo: geminiLogo },
       { name: "RAG", logo: ragLogo },
       { name: "GPT-4", logo: openaiLogo },
-      { name: "Prompt Engineering", logo: promptLogo },
+      { name: "PromptEng", logo: promptLogo },
       { name: "ChromaDB", logo: chromadbLogo },
+      { name: "Hugging Face", logo: huggingfaceLogo },
+
     ],
   },
 ];
