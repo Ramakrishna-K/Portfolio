@@ -43,7 +43,7 @@ import djangoLogo from "./assets/tech_logo/django.png";
 
 // Generative AI
 import openaiLogo from "./assets/tech_logo/gpt.jpg";
-import geminiLogo from "./assets/tech_logo/gemini.";
+import geminiLogo from "./assets/tech_logo/gemini.webp";
 import promptLogo from "./assets/tech_logo/prompt.webp";
 import ragLogo from "./assets/tech_logo/RAG.png";
 // import huggingfaceLogo from "./assets/tech_logo/huggingface.png";
