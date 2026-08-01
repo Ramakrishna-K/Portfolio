@@ -182,7 +182,7 @@ export const SkillsInfo = [
 //   ],
 // },
  {
-    title: 'Tools',
+    title: 'Generative AI',
     skills: [
       { name: 'Docker', logo: dockerLogo },
       { name: 'Git', logo: gitLogo },
