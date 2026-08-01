@@ -182,7 +182,7 @@ export const SkillsInfo = [
 //   ],
 // },
  {
-    title: 'Generative AI',
+    title: 'Generative AI & AI Tools',
     skills: [
       { name: 'Ollama', logo:  ollamaLogo },
       { name: "Gemini", logo: geminiLogo },
@@ -191,6 +191,8 @@ export const SkillsInfo = [
       { name: "PromptEng", logo: promptLogo },
       { name: "ChromaDB", logo: chromadbLogo },
       { name: "Hugging Face", logo: huggingfaceLogo },
+      { name: "OpenAI API", logo: openaiLogo },
+      { name: "Gemini API", logo: geminiLogo },
 
     ],
   },
