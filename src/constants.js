@@ -196,6 +196,22 @@ export const SkillsInfo = [
 
     ],
   },
+   {
+    title: 'Agentic AI',
+    skills: [
+      { name: 'Ollama', logo:  ollamaLogo },
+      { name: "Gemini", logo: geminiLogo },
+      { name: "RAG", logo: ragLogo },
+      { name: "GPT-4", logo: openaiLogo },
+      { name: "PromptEng", logo: promptLogo },
+      { name: "ChromaDB", logo: chromadbLogo },
+      { name: "Hugging Face", logo: huggingfaceLogo },
+      { name: "OpenAI API", logo: openaiLogo },
+      { name: "Gemini API", logo: geminiLogo },
+
+    ],
+  },
+
 ];
 
 export const experiences = [
