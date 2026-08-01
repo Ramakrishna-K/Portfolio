@@ -47,7 +47,7 @@ import geminiLogo from "./assets/tech_logo/gemini.webp";
 import promptLogo from "./assets/tech_logo/prompt.webp";
 import ragLogo from "./assets/tech_logo/RAG.png";
 // import huggingfaceLogo from "./assets/tech_logo/huggingface.png";
-import ollamaLogo from "./assets/tech_logo/gemini.webp";
+import ollamaLogo from "./assets/tech_logo/ollama.png";
 import chromadbLogo from "./assets/tech_logo/chromadb.jpg";
 // import faissLogo from "./assets/tech_logo/faiss.png";
 
