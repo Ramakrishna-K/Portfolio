@@ -52,15 +52,15 @@ import chromadbLogo from "./assets/tech_logo/chromadb.jpg";
 // import faissLogo from "./assets/tech_logo/faiss.png";
 
 // Agentic AI
-// import langchainLogo from "./assets/tech_logo/langchain.png";
-// import langgraphLogo from "./assets/tech_logo/langgraph.png";
-// import llamaindexLogo from "./assets/tech_logo/llamaindex.png";
-// import crewaiLogo from "./assets/tech_logo/crewai.png";
-// import pydanticLogo from "./assets/tech_logo/pydantic.png";
-// import mcpLogo from "./assets/tech_logo/mcp.png";
+import langchainLogo from "./assets/tech_logo/langchain.png";
+import langgraphLogo from "./assets/tech_logo/langGraph.png";
+import llamaindexLogo from "./assets/tech_logo/llamaIndex.jpg";
+import crewaiLogo from "./assets/tech_logo/crewai.jpg";
+import pydanticLogo from "./assets/tech_logo/pydantic.jpg";
+import mcpLogo from "./assets/tech_logo/mcp.webp";
 // import functionLogo from "./assets/tech_logo/function-calling.png";
 // import toolLogo from "./assets/tech_logo/tool-calling.png";
-// import multiagentLogo from "./assets/tech_logo/multi-agent.png";
+import multiagentLogo from "./assets/tech_logo/multiagent.png";
 
 // import csharpLogo from './assets/tech_logo/csharp.png';
 
@@ -152,21 +152,7 @@ export const SkillsInfo = [
        { name: 'Render', logo: renderLogo },
     ],
   },
-  // {
-  // title: "Generative AI",
-  // skills: [
-  //   { name: "GPT-4", logo: openaiLogo },
-    // { name: "Gemini", logo: geminiLogo },
-    // { name: "Prompt Engineering", logo: promptLogo },
-    // { name: "RAG", logo: ragLogo },
-    // { name: "OpenAI API", logo: openaiLogo },
-    // { name: "Gemini API", logo: geminiLogo },
-    // { name: "Hugging Face", logo: huggingfaceLogo },
-    // { name: "Ollama", logo: ollamaLogo },
-    // { name: "ChromaDB", logo: chromadbLogo },
-    // { name: "FAISS", logo: faissLogo },
-//   ],
-// },
+ 
 // {
 //   title: "Agentic AI",
 //   skills: [
@@ -199,15 +185,15 @@ export const SkillsInfo = [
    {
     title: 'Agentic AI',
     skills: [
-      { name: 'Ollama', logo:  ollamaLogo },
-      { name: "Gemini", logo: geminiLogo },
-      { name: "RAG", logo: ragLogo },
-      { name: "GPT-4", logo: openaiLogo },
-      { name: "PromptEng", logo: promptLogo },
-      { name: "ChromaDB", logo: chromadbLogo },
-      { name: "Hugging Face", logo: huggingfaceLogo },
-      { name: "OpenAI API", logo: openaiLogo },
-      { name: "Gemini API", logo: geminiLogo },
+     { name: "LangChain", logo: langchainLogo },
+    { name: "LangGraph", logo: langgraphLogo },
+    { name: "LlamaIndex", logo: llamaindexLogo },
+    { name: "CrewAI", logo: crewaiLogo },
+    { name: "Pydantic", logo: pydanticLogo },
+    { name: "MCP", logo: mcpLogo },
+    // { name: "Function Calling", logo: functionLogo },
+    // { name: "Tool Calling", logo: toolLogo },
+    { name: "Multi-Agent Workflows", logo: multiagentLogo },
 
     ],
   },
