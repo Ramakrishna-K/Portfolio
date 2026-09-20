@@ -213,15 +213,25 @@ export const certifications = [
   link: "https://drive.google.com/file/d/1V-xyJEOFAKb8rmXygv07KM-J4Im4xWrf/view?usp=drive_link"
   
 }
-{
+    {
   id: 3,
-  title: "All India Hackathon (AIH) 2026",
-  issuer: "Axcentra",
-  date: "2026",
-  img: aihCertificate,
-  desc: "Successfully completed the 72-hour national-level online coding challenge at All India Hackathon (AIH) 2026, demonstrating problem-solving and technical skills.",
-  link: "YOUR_CERTIFICATE_LINK"
+  title: "Full Stack Generative and Agentic AI with Python",
+  issuer: "Udemy",
+  date: "Apr 2026",
+  img: fullstackCerts,
+  desc: "Completed an intensive certification focused on Generative AI, Agentic AI systems, Python, LangChain, AI workflows, and full-stack AI application development.",
+  link: "https://drive.google.com/file/d/1V-xyJEOFAKb8rmXygv07KM-J4Im4xWrf/view?usp=drive_link"
+  
 }
+// {
+//   id: 3,
+//   title: "All India Hackathon (AIH) 2026",
+//   issuer: "Axcentra",
+//   date: "2026",
+//   img: aihCertificate,
+//   desc: "Successfully completed the 72-hour national-level online coding challenge at All India Hackathon (AIH) 2026, demonstrating problem-solving and technical skills.",
+//   link: "YOUR_CERTIFICATE_LINK"
+// }
   // {
 //   id: 2,
 //   title: "Full Stack Food Delivery Project",
