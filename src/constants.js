@@ -212,8 +212,7 @@ export const certifications = [
   desc: "Completed an intensive certification focused on Generative AI, Agentic AI systems, Python, LangChain, AI workflows, and full-stack AI application development.",
   link: "https://drive.google.com/file/d/1V-xyJEOFAKb8rmXygv07KM-J4Im4xWrf/view?usp=drive_link"
   
-}
-{
+},
 {
   id: 3,
   title: "All India Hackathon (AIH) 2026",
