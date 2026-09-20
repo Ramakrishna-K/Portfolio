@@ -213,8 +213,8 @@ export const certifications = [
   link: "https://drive.google.com/file/d/1V-xyJEOFAKb8rmXygv07KM-J4Im4xWrf/view?usp=drive_link"
   
 }
-    {
-  id: 2,
+{
+  id: 3,
   title: "Full Stack Generative and Agentic AI with Python",
   issuer: "Udemy",
   date: "Apr 2026",
