@@ -5,7 +5,7 @@ const Certifications = () => {
   return (
     <section
       id="certifications"
-      className="py-24 px-[12vw] md:px-[7vw] lg:px-[16vw] font-sans bg-skills-gradient clip-path-custom-2"
+      className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
     >
       {/* Section Title */}
       <div className="text-center mb-16">
