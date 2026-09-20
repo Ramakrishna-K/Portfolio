@@ -202,7 +202,7 @@ export const SkillsInfo = [
   },
 
   {
-    title: 'Backend & Database & Tools',
+    title: 'Backend, Database & Tools',
     skills: [
       { name: 'Node JS', logo: nodejsLogo },
       { name: 'Express JS', logo: expressjsLogo },
@@ -221,8 +221,11 @@ export const SkillsInfo = [
   },
 
   {
-    title: 'AI & Tools',
+    title: 'Generative AI & AI Tools',
     skills: [
+      { name: 'Ollama', logo:  ollamaLogo },
+      { name: "ChromaDB", logo: chromadbLogo },
+      { name: "Multi-Agent", logo: multiagentLogo },
       { name: 'Gemini', logo: geminiLogo },
       { name: 'OpenAI API', logo: openaiLogo },
       { name: 'RAG', logo: ragLogo },
