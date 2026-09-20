@@ -90,7 +90,7 @@ import taskremLogo from './assets/work_logo/ai_agent.png';
 
 import fullstackCert from "./assets/certificates/certificates.jpg";
 import fullstackCerts from "./assets/certificates/certificates1.jpg"
-
+import aihCertificate from "./assets/certificates/certificate3.png"
 
 export const SkillsInfo = [
   {
