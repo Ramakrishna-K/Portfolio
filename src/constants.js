@@ -202,7 +202,7 @@ export const SkillsInfo = [
   },
 
   {
-    title: 'Backend & Database',
+    title: 'Backend & Database & Tools',
     skills: [
       { name: 'Node JS', logo: nodejsLogo },
       { name: 'Express JS', logo: expressjsLogo },
@@ -210,7 +210,13 @@ export const SkillsInfo = [
       { name: 'FastAPI', logo: fastapiLogo },
       { name: 'MongoDB', logo: mongodbLogo },
       { name: 'MySQL', logo: mysqlLogo },
-      { name: 'PostgreSQL', logo: postgreLogo },
+       { name: 'Docker', logo: dockerLogo },
+      { name: 'Git', logo: gitLogo },
+      { name: 'GitHub', logo: githubLogo },
+      { name: 'Apache Kafka', logo: kafkaLogo },
+      { name: 'Postman', logo: postmanLogo },
+      { name: 'Redis', logo: redisLogo },
+
     ],
   },
 
@@ -223,12 +229,8 @@ export const SkillsInfo = [
       { name: 'LangChain', logo: langchainLogo },
       { name: 'LangGraph', logo: langgraphLogo },
       { name: 'MCP', logo: mcpLogo },
-      { name: 'Docker', logo: dockerLogo },
-      { name: 'Git', logo: gitLogo },
-      { name: 'GitHub', logo: githubLogo },
-      { name: 'Redis', logo: redisLogo },
-      { name: 'Apache Kafka', logo: kafkaLogo },
-      { name: 'Postman', logo: postmanLogo },
+    
+     
     ],
   },
 ];
