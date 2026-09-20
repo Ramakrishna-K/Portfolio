@@ -89,8 +89,8 @@ import taskremLogo from './assets/work_logo/ai_agent.png';
 // import removebgLogo from './assets/work_logo/remove_bg.png';
 
 import fullstackCert from "./assets/certificates/certificates.jpg";
-import fullstackCerts from "./assets/certificates/certificates1.jpg"
-import aihCertificate from "./assets/certificates/certificate3.png"
+import fullstackCerts from "./assets/certificates/certificates1.jpg";
+import aihCertificate from "./assets/certificates/certificates2.png";
 
 export const SkillsInfo = [
   {
@@ -214,15 +214,15 @@ export const certifications = [
   
 }
 {
+{
   id: 3,
-  title: "Full Stack Generative and Agentic AI with Python",
-  issuer: "Udemy",
-  date: "Apr 2026",
-  img: fullstackCerts,
-  desc: "Completed an intensive certification focused on Generative AI, Agentic AI systems, Python, LangChain, AI workflows, and full-stack AI application development.",
-  link: "https://drive.google.com/file/d/1V-xyJEOFAKb8rmXygv07KM-J4Im4xWrf/view?usp=drive_link"
-  
-}
+  title: "All India Hackathon (AIH) 2026",
+  issuer: "Axcentra",
+  date: "2026",
+  img: aihCertificate,
+  desc: "Successfully completed the 72-hour national-level online coding challenge at All India Hackathon (AIH) 2026, demonstrating problem-solving and technical skills.",
+  link: "#",
+},
 // {
 //   id: 3,
 //   title: "All India Hackathon (AIH) 2026",
