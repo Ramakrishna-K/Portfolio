@@ -222,36 +222,11 @@ export const certifications = [
   desc: "Successfully completed the 72-hour national-level online coding challenge at All India Hackathon (AIH) 2026, demonstrating problem-solving and technical skills.",
   link: "https://drive.google.com/file/d/1hWQkMlmjETsb6826p5U_wz4Zs77-qlhs/view?usp=drive_link",
 },
-// {
-//   id: 3,
-//   title: "All India Hackathon (AIH) 2026",
-//   issuer: "Axcentra",
-//   date: "2026",
-//   img: aihCertificate,
-//   desc: "Successfully completed the 72-hour national-level online coding challenge at All India Hackathon (AIH) 2026, demonstrating problem-solving and technical skills.",
-//   link: "YOUR_CERTIFICATE_LINK"
-// }
-  // {
-//   id: 2,
-//   title: "Full Stack Food Delivery Project",
-//   issuer: "GreatStack",
-//   date: "Feb 2026",
-//   img: fullstackCerts,
-//   desc: "Built a complete full-stack food delivery application using the MERN stack, implementing authentication, cart management, and order processing.",
-//   link: "https://drive.google.com/file/d/1GLv-AMZviHycGzOJFBQsXx1Bqeyp-po2/view"
-// }
+
 ]
   
   export const education = [
-    // {
-    //   id: 0,
-    //   img: glaLogo,
-    //   school: "GLA University, Mathura",
-    //   date: "Sept 2022 - July 2024",
-    //   grade: "7.81 CGPA",
-    //   desc: "I have completed my Master's degree (MCA) in Computer Applications from GLA University, Mathura. During my time at GLA, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at GLA University has been instrumental in shaping my technical abilities and professional growth.",
-    //   degree: "Master of Computer Applications - MCA",
-    // },
+
     {
       id: 1,
       img: bsaLogo,
@@ -354,46 +329,4 @@ export const certifications = [
       // github: "https://github.com/codingmastr/CSPrep",
       // webapp: "https://csprep.netlify.app/",
     },
-     
- 
-    // {
-    //   id: 5,
-    //   title: "Webverse Digital",
-    //   description:
-    //     "The official website for Webverse Digital, a creative digital marketing agency. Built using HTML, CSS, and JavaScript, it features visually appealing animations and a clean design to showcase the agency's services.",
-    //   image: webverLogo,
-    //   tags: ["HTML", "CSS", "JavaScript", "Framer Motion"],
-    //   github: "https://github.com/codingmastr/Webverse-Digital",
-    //   webapp: "https://webversedigital.com/",
-    // },
-    // {
-    //   id: 6,
-    //   title: "Coding Master",
-    //   description:
-    //     "An ed-tech platform where users can access tech and coding-related blogs, notes, interview questions, e-books, and premium content with payment integration. Built with full-stack technologies for a seamless learning experience.",
-    //   image: cmLogo,
-    //   tags: ["React JS", "Node.js", "MongoDB", "Express", "Payment Integration"],
-    //   github: "https://codingmasterweb.in/",
-    //   webapp: "https://codingmasterweb.in/",
-    // },
-    // {
-    //   id: 7,
-    //   title: "Image Search App",
-    //   description:
-    //     "A React.js-based image search application that allows users to search and download high-quality images from the web. Built using external APIs to ensure a vast library of results for various queries.",
-    //   image: imagesearchLogo,
-    //   tags: ["React JS", "API", "Search Feature", "CSS", "Javascript"],
-    //   github: "https://github.com/codingmastr/Image-Search-App",
-    //   webapp: "https://imagsearch.netlify.app/",
-    // },
-    // {
-    //   id: 8,
-    //   title: "Image Background Remover",
-    //   description:
-    //     "An efficient background removal app built with React.js and API integration. Users can upload any image, remove the background, and download the transparent version for further use.",
-    //   image: removebgLogo,
-    //   tags: ["React JS", "API", "Image Processing", "HTML", "CSS", "Javascript"],
-    //   github: "https://github.com/codingmastr/Image-Background-Remover",
-    //   webapp: "https://removeyourbg.netlify.app/",
-    // },
   ];  
