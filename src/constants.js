@@ -220,7 +220,7 @@ export const certifications = [
   date: "2026",
   img: aihCertificate,
   desc: "Successfully completed the 72-hour national-level online coding challenge at All India Hackathon (AIH) 2026, demonstrating problem-solving and technical skills.",
-  link: "#",
+  link: "https://drive.google.com/file/d/1hWQkMlmjETsb6826p5U_wz4Zs77-qlhs/view?usp=drive_link",
 },
 // {
 //   id: 3,
