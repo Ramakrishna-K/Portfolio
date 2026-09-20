@@ -91,100 +91,7 @@ import taskremLogo from './assets/work_logo/ai_agent.png';
 import fullstackCert from "./assets/certificates/certificates.jpg";
 import fullstackCerts from "./assets/certificates/certificates1.jpg"
 
-// export const SkillsInfo = [
-//   {
-//     title: 'Frontend',
-//     skills: [
-//       { name: 'HTML', logo: htmlLogo },
-//       { name: 'CSS', logo: cssLogo },
-//       // { name: 'SASS', logo: sassLogo },
-//       // { name: 'JavaScript', logo: javascriptLogo },
-//       { name: 'React JS', logo: reactjsLogo },
-//       { name: 'Angular', logo: angularLogo },
-//       { name: 'Redux', logo: reduxLogo },
-//       { name: 'Next JS', logo: nextjsLogo },
-//       { name: 'Tailwind CSS', logo: tailwindcssLogo },
-//       // { name: 'GSAP', logo: gsapLogo },
-//       // { name: 'Material UI', logo: materialuiLogo },
-//       { name: 'Bootstrap', logo: bootstrapLogo },
-//     ],
-//   },
-//   {
-//     title: 'Backend',
-//     skills: [
-//       // { name: 'Springboot', logo: springbootLogo },
-//       { name: 'Node JS', logo: nodejsLogo },
-//       { name: 'Express JS', logo: expressjsLogo },
-//       { name: 'Django', logo: djangoLogo },
-//       { name: 'FastAPI', logo: fastapiLogo },
-//       { name: 'MySQL', logo: mysqlLogo },
-//       { name: 'MongoDB', logo: mongodbLogo },
-//       // { name: 'Firebase', logo: firebaseLogo },
-//       { name: 'PostgreSQL', logo: postgreLogo },
-//     ],
-//   },
-//   {
-//     title: 'Languages',
-//     skills: [
-//       // { name: 'C', logo: cLogo },
-//       // { name: 'C++', logo: cppLogo },
-//       { name: 'Java', logo: javaLogo },
-//       { name: 'Python', logo: pythonLogo },
-//       // { name: 'C-Sharp', logo: csharpLogo },
-//       { name: 'JavaScript', logo: javascriptLogo },
-//       { name: 'TypeScript', logo: typescriptLogo },
-//     ],
-//   },
-//   {
-//     title: 'Tools',
-//     skills: [
-//       { name: 'Docker', logo: dockerLogo },
-//       { name: 'Git', logo: gitLogo },
-//       { name: 'GitHub', logo: githubLogo },
-//       { name: 'VS Code', logo: vscodeLogo },
-//       { name: 'Postman', logo: postmanLogo },
-//       { name: 'Compass', logo: mcLogo },
-//       { name: 'Vercel', logo: vercelLogo },
-//       { name: 'Netlify', logo: netlifyLogo },
-//       // { name: 'Figma', logo: figmaLogo },
-//       { name: 'Redis', logo: redisLogo },
-//       { name: 'Apache Kafka', logo: kafkaLogo },
-//        { name: 'Render', logo: renderLogo },
-//     ],
-//   },
- 
-//  {
-//     title: 'Generative AI & AI Tools',
-//     skills: [
-//       { name: 'Ollama', logo:  ollamaLogo },
-//       { name: "Gemini", logo: geminiLogo },
-//       { name: "RAG", logo: ragLogo },
-//       { name: "GPT-4", logo: openaiLogo },
-//       { name: "PromptEng", logo: promptLogo },
-//       { name: "ChromaDB", logo: chromadbLogo },
-//       { name: "Hugging Face", logo: huggingfaceLogo },
-//       { name: "OpenAI API", logo: openaiLogo },
-//       { name: "Gemini API", logo: geminiLogo },
 
-//     ],
-//   },
-//    {
-//     title: 'Agentic AI Frameworks',
-//     skills: [
-//      { name: "LangChain", logo: langchainLogo },
-//     { name: "LangGraph", logo: langgraphLogo },
-//     { name: "LlamaIndex", logo: llamaindexLogo },
-//     { name: "CrewAI", logo: crewaiLogo },
-//     { name: "Pydantic", logo: pydanticLogo },
-//     { name: "MCP", logo: mcpLogo },
-//     // { name: "Function Calling", logo: functionLogo },
-//     // { name: "Tool Calling", logo: toolLogo },
-//     { name: "Multi-Agent", logo: multiagentLogo },
-
-//     ],
-//   },
-
-// ];
 export const SkillsInfo = [
   {
     title: 'Frontend',
@@ -305,6 +212,15 @@ export const certifications = [
   desc: "Completed an intensive certification focused on Generative AI, Agentic AI systems, Python, LangChain, AI workflows, and full-stack AI application development.",
   link: "https://drive.google.com/file/d/1V-xyJEOFAKb8rmXygv07KM-J4Im4xWrf/view?usp=drive_link"
   
+}
+{
+  id: 3,
+  title: "All India Hackathon (AIH) 2026",
+  issuer: "Axcentra",
+  date: "2026",
+  img: aihCertificate,
+  desc: "Successfully completed the 72-hour national-level online coding challenge at All India Hackathon (AIH) 2026, demonstrating problem-solving and technical skills.",
+  link: "YOUR_CERTIFICATE_LINK"
 }
   // {
 //   id: 2,
