@@ -214,7 +214,7 @@ export const certifications = [
   
 }
     {
-  id: 3,
+  id: 2,
   title: "Full Stack Generative and Agentic AI with Python",
   issuer: "Udemy",
   date: "Apr 2026",
